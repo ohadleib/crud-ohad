@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crud-ohad/static/css/main.44d0d5ed.css",
+    "main.js": "/crud-ohad/static/js/main.7d5606da.js",
+    "static/js/787.ad4f4dcc.chunk.js": "/crud-ohad/static/js/787.ad4f4dcc.chunk.js",
+    "index.html": "/crud-ohad/index.html",
+    "main.44d0d5ed.css.map": "/crud-ohad/static/css/main.44d0d5ed.css.map",
+    "main.7d5606da.js.map": "/crud-ohad/static/js/main.7d5606da.js.map",
+    "787.ad4f4dcc.chunk.js.map": "/crud-ohad/static/js/787.ad4f4dcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44d0d5ed.css",
+    "static/js/main.7d5606da.js"
+  ]
+}
